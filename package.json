@@ -1,0 +1,8 @@
+{
+  "name": "webuy-stock-alerts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Erisa/webuy-stock-alerts",
+  "author": "Erisa A <erisa@erisa.uk>",
+  "license": "MIT"
+}
